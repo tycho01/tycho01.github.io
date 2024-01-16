@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/security/guard.jpg
 title: "Security: Late Night Adventures In Guarding"
 date: 2024
 published: true
