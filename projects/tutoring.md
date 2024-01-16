@@ -14,7 +14,7 @@ labels:
 summary: "My experiences tutoring students from a diverse array of backgrounds."
 ---
 
-<img class="img-fluid" src="../img/tutoring/integral.png">
+<img width="200px" class="img-fluid" src="../img/tutoring/integral.png">
 
 ## Apprehensive Excitement
 Throughout 2023, I've had the pleasure of working as a peer tutor across two campuses in the UH system, focusing on certain areas of Mathematics and Computer Science. Some of the courses I've tutored were Discrete Math I, Calculus I and II, as well as Program Structure in C / C++. I've worked with students of varying ages and mathematical backgrounds. When I initially set out on this new venture, I'll be the first to admit there was a twinge of reluctance on my part to take up tutoring a course like Program Structure as I was extremely rusty with any sort of code by that point and was not certain I'd be able to help as much as I really wanted to, despite remembering a bulk of the concepts. Nevertheless, I found myself experiencing a wave of excitement at the prospect of helping other students understand material I also grappled with in the not-so-distant past.
