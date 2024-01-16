@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/tutoring/math.png
 title: "Tutoring: An Everchanging Maze"
 date: 2024
 published: true
