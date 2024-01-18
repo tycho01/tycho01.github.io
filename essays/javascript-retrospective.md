@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<center> <img width="1000px" class="" src="../img/js-essay/arrowFunc.png"> </center>
+<center> <img width="700px" class="" src="../img/js-essay/arrowFunc.png"> </center>
 
 ## Blast From The Past
 When I first encountered Javascript, I thought "No way am I ever coming back to this in my life, I'll learn it once and never touch this again". Well, as I write this, I'm currently facepalming at my overconfidence. Here I am again, staring down the language I initially dismissed and opted to care so little for in the not-so-distant past. However, now it feels as though something has actually changed. I find myself enjoying using this language and its versatile features to solve problems, even though debugging is still and likely always will be, a colossal headache with this language due to the many possible runtime errors one can encounter along the way. Still, there are features that are admittedly fun to make extensive use of.
