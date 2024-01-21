@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tutoring/math.png
+image: img/ccdc/cyber-icon.jpg
 title: "CCDC 2024: Sink or Swim"
 date: 2024
 published: true
@@ -19,7 +19,7 @@ summary: "Details my personal experiences signing up and preparing for a college
 ## Uncharted Territory
 
 
-## A School of Fish
+## Preparation
 
 
-## 
+## A Wealth of Knowledge
