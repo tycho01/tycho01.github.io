@@ -14,7 +14,7 @@ labels:
 summary: "Details my personal experiences signing up and preparing for a collegeiate cyber defense competition."
 ---
 
-<center> <img style="padding: 25px 0px 35px 0px" width="700px" class="img-fluid" src="../img/tutoring/integral.png"> </center>
+<center> <img style="padding: 25px 0px 35px 0px" width="700px" class="img-fluid" src="../img/ccdc/cyber-defense.jpg"> </center>
 
 ## Uncharted Territory
 
