@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ccdc/cyber-icon.jpg
+image: img/ccdc/cyberdefense-icon.jpg
 title: "CCDC 2024: Sink or Swim"
 date: 2024
 published: true
