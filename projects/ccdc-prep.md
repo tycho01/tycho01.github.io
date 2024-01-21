@@ -4,7 +4,7 @@ type: project
 image: img/tutoring/math.png
 title: "CCDC 2024: Sink or Swim"
 date: 2024
-published: false
+published: true
 labels:
   - Cyber Defense
   - IT
