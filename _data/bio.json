@@ -47,7 +47,7 @@
       "website": "",
       "startDate": "2023-10-01",
       "endDate": "2024-01-16",
-      "summary": "Peer tutor focusing on STEM-related courses",
+      "summary": "",
       "highlights": [
         "Aided students with understanding complex topics in a digestible manner",
         "Tracked student progress to assess and improve my own approach to tutoring",
@@ -64,6 +64,45 @@
       "highlights": [
         "Offered students pursuing a Computer Science degree advice regarding coursework, study habits, and expectations",
         "Guided students towards a better understanding of solutions and the reasoning behind them"
+      ]
+    },
+    {
+      "company": "Hugo Boss",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2015-02-09",
+      "endDate": "2017-01-12",
+      "summary": "",
+      "highlights": [
+        "Assisted customers with selecting clothing appropriate for their situations",
+        "Replenished and organized inventory on sales floor with efficiency",
+        "Maintained visually appealing merchandise displays on mannequins for customer viewing"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "position": "Security Guard",
+      "website": "",
+      "startDate": "2016-04-15",
+      "endDate": "2016-11-12",
+      "summary": "",
+      "highlights": [
+        "Patrolled premises to monitor establishments during late night hours",
+        "Checked locks and windows at regular intervals to identify evidence of tampering",
+        "Kept written logs of visitors on premises for record-keeping and reporting purposes"
+      ]
+    },
+    {
+      "company": "The Cheesecake Factory",
+      "position": "Host",
+      "website": "",
+      "startDate": "2016-03-03",
+      "endDate": "2016-11-14",
+      "summary": "",
+      "highlights": [
+        "Answered phone calls, handling various inquiries and organized reservations",
+        "Greeted and escorted dining guests to their designated tables",
+        "Provided guests with a warm and calm attitude in a fast-paced environment"
       ]
     }
   ],
