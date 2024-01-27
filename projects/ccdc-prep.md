@@ -11,13 +11,13 @@ labels:
   - System Administration
   - Hacking
     
-summary: "Details my personal experiences signing up and preparing for a collegeiate cyber defense competition."
+summary: "Details my personal experiences signing up and preparing for a collegiate cyber defense competition."
 ---
 
 <center> <img style="padding: 25px 0px 35px 0px" width="700px" class="img-fluid" src="../img/ccdc/cyber-defense.jpg"> </center>
 
 ## Uncharted Territory
-In 2023 I joined a student club tailored towards learning various aspects of cybersecurity, The Grey Hats. Having had very little in the way of experience, only having spun up a few VM's and trying to learn a bit of Linux on my own time, I wasn't completely sure how things were going to play out but I gave it a shot. Deciding to throw myself head-first into the fray, I applied to compete in the Collegeiate Cyber Defense Competition for the year 2024. As the weekly training meetings continued and we started breaking up into groups and formulating our plan of attack, I would quickly realize how much of a trial by fire this process would ultimately be.
+In 2023 I joined a student club tailored towards learning various aspects of cybersecurity, The Grey Hats. Having had very little in the way of experience, only having spun up a few VMs and trying to learn a bit of Linux on my own time, I wasn't completely sure how things were going to play out but I gave it a shot. Deciding to throw myself head-first into the fray, I applied to compete in the Collegiate Cyber Defense Competition for the year 2024. As the weekly training meetings continued and we started breaking up into groups and formulating our plan of attack, I would quickly realize how much of a trial by fire this process would ultimately be.
 
 ## Preparation
 At first, training would consist of gathering together and going over some set of exercises in order to gain hands-on experience with some system administration tasks. Among these would be attempting to get SSH running and securing the service by manipulating the configuration file, trying to setup fail2ban, and getting some practice with some fundamental commandline utilities. Once the team was officially determined and we split off into smaller groups, it was now up to us as a team to organize tasks and keep each other updated on what we were currently up to from week to week. Unfortunately, things did not exactly go as planned as almost everyone got caught up in personal affairs and obligations. This experience further reinforced for me just how incredibly important communication and effective teamwork truly is. Regardless, I set out to perform the necessary research and do the tasks I volunteered for and luckily ended up learning quite a bit along the way.
