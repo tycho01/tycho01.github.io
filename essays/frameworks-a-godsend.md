@@ -12,7 +12,7 @@ labels:
   - Frameworks
 ---
 
-<img src="../img/frameworks/stance.jpg" style="width: 60%; padding: 20px 0 35px 0" alt="Sites">
+<center> <img src="../img/frameworks/stance.jpg" style="width: 60%; padding: 20px 0 35px 0" alt="Sites"> </center>
 
 ## The Struggle
 The pain of designing a site with raw HTML and CSS is something I hope to never experience again. Don't get me wrong, they're fine and provide the foundations for creating some beautiful sites but the amount of time it takes to create a site from pure scratch is simply not worth the trouble in the eyes of this neophyte. The countless hours spent trying to get the layout of everything just right, the tiniest adjustments to padding and margins, the struggle to make sure everything is somewhat responsive and doesn't look like a complete mess is absolutely grueling. A flexbox here, a justify-content-center there, and everything somehow breaks. However, my woes are luckily no more thanks to the blessed introduction of UI frameworks.
