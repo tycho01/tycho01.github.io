@@ -4,7 +4,7 @@ type: project
 image: img/security/guard.jpg
 title: "Security: Late Night Adventures In Guarding"
 date: 2016
-published: true
+published: false
 labels:
   - Security
   - Teamwork
