@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/clubsearch-manoa/clubsearch_logo.png
+image: img/clubsearch-manoa/clubsearch_logo.png width="225px" height="225px"
 title: "ClubSearch Manoa"
 date: 2024-05-10
 published: true
