@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "Bash", "HTML", "CSS", "React", "Node" ]
+      "keywords": [ "C", "C++", "Javascript", "Bash", "HTML", "CSS", "React", "Node", "MQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++", "gcc", "Vim" ]
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++", "gcc", "Vim", "MongoDB" ]
     }
   ],
   "education": [
