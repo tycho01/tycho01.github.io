@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/clubsearch-manoa/clubsearch_logo.png
 title: "ClubSearch Manoa"
-date: 2024-05-10
+date: 2024
 published: true
 labels:
   - Web App
