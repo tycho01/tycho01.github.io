@@ -18,6 +18,7 @@ summary: "A web application my team and I developed for our Software Engineering
 <center> <img style="padding: 25px 0px 35px 0px" width="700px" class="img-fluid" src="../img/clubsearch-manoa/browse-clubs.png"> </center>
 
 <p> For More Information Please Go Here: <a href="https://clubsearch-manoa.github.io/"> ClubSearch Manoa Homepage </a> </p>
+<p> Head To Our Organization Page If You Wish To See Source Code: <a href="https://github.com/clubsearch-manoa"> ClubSearch Manoa Organization </a> </p>
 
 ## Overview
 <p> ClubSearch Manoa is a web application developed in order to provide students with a central hub, one that allows them to easily browse through clubs available at UH Manoa or search for one if they have a specific club in mind. Each club displays some general information such as their meeting times, who to contact if interested in joining and a brief description of what they do. The application is built using the Meteor framework, React JS library and integrated with MongoDB for easy data storage and retrieval. Additionally, automated testing was included via Testcafe to ensure the application functions as intended. </p>
