@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tutoring/math.png
+image: img/tutoring/tutoring.jpg
 title: "Tutoring: An Everchanging Maze"
 date: 2024
 published: true
